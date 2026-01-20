@@ -77,7 +77,16 @@
       "flag": "FLAG_HIDE_LITTLEROOT_TOWN_BIRCH"
     }
   ],
-  "warp_events": [],
+  "warp_events": [
+    {
+      "warp_id": "gymoutside",
+      "x": 5,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_LITTLE_ROOT_GYM",
+      "dest_warp_id": "0"
+    }
+  ],
   "coord_events": [],
   "bg_events": []
 }
