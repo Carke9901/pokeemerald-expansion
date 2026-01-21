@@ -81,6 +81,116 @@ Gender: Male
 Music: Male
 Double Battle: No
 
+=== TRAINER_CARSON ===
+Name: CARSON
+Class: Hiker
+Pic: Hiker
+Gender: Male
+Music: Male
+Double Battle: No
+
+Wooper Paldea 
+Level: 16
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Yawn
+- Water Gun
+- Spikes
+- Acid Spray
+
+Beedrill 
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Brutal Swing
+- Toxic
+- Poison Sting
+- Harden
+
+=== TRAINER_MASON ===
+Name: MASON
+Class: Collector
+Pic: Collector
+Gender: Male
+Music: Male
+Double Battle: No
+
+Ariados 
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Shadow Sneak
+- X-Scissor
+- Toxic
+- Swords Dance
+
+=== TRAINER_ANNA ===
+Name: ANNA
+Class: Lady
+Pic: Lady
+Gender: Female
+Music: Female
+Double Battle: No
+
+Stunky @ Focus Sash
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Bite
+- Fury Swipes
+- Toxic
+- Acid Spray
+
+=== TRAINER_HIRAM ===
+Name: HIRAM
+Class: Expert 
+Pic: Expert M
+Gender: Male
+Music: Male
+Double Battle: No
+
+Koffing @ Focus Sash
+Level: 15
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Explosion
+- Explosion
+- Explosion
+- Explosion
+
+Nidoking
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Horn Attack
+- Poison Jab
+- Supersonic
+- Sucker Punch
+
+=== TRAINER_FRANK ===
+Name: FRANK
+Class: Camper 
+Pic: Camper 
+Gender: Male
+Music: Male
+Double Battle: No
+
+Venomoth
+Level: 17
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Quiver Dance
+- Struggle Bug
+- Poison Powder
+- Acid Spray
+
+
+
+=== TRAINER_ASH ===
+Name: ASH
+Class: Cooltrainer
+Pic: Cooltrainer M
+Gender: Male
+Music: Male
+Double Battle: No
+
+Ekans
+Level: 22
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
 === TRAINER_SAWYER_1 ===
 Name: SAWYER
 Class: Hiker
@@ -15152,6 +15262,40 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 - Thunderbolt
 - Shadow Ball
+
+=== TRAINER_NORMAN_6 ===
+Name: NORMAN
+Class: Leader
+Pic: Leader Norman
+Gender: Male
+Music: Male
+Items: Super Potion / Super Potion
+Double Battle: No
+AI: Basic Trainer
+
+Sneasel Hisui @ Quick Claw
+Level: 18
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Poison Jab
+- Hone Claws
+- Quick Attack
+- Toxic
+
+Whirlipede @ Chesto Berry
+Level: 20
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Toxic
+- Poison Tail
+- Rollout
+- Rest
+
+Seviper @ Choice Band
+Level: 21
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+- Crunch
+- Poison Tail
+- Swagger
+- Glare
 
 === TRAINER_WINONA_2 ===
 Name: WINONA
